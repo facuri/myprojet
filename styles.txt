@@ -1,4 +1,4 @@
 body{
-     color: #FC0;
      font 15px arial sans serif;
+     color: #FC0;
 }
