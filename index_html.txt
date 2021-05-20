@@ -10,6 +10,7 @@
          <h1 class ="title">Curso Java Alex fernando 2021</h1>
           <div></div>
           <p>paragráfo</p>
+           <footer>Rodapé</footer>
      </main>
 </body>
 </html>
